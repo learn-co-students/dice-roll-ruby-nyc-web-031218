@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  numbers = [1, 2, 3, 4, 5, 6]
+  numbers.sample
 end
